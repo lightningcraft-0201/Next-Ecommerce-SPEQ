@@ -1,7 +1,5 @@
 # Next.js E-Commerce Website
 
-![Next.js E-Commerce Website](https://github.com/DevRex-0201/Next-Ecommerce-SPEQ/blob/main/public/intro.jpg)
-
 Welcome to the Next.js E-Commerce Website repository! This powerful e-commerce platform, developed by Abdullah Moiz, offers a seamless shopping experience with advanced features and a user-friendly interface. Built with Next.js 13, TypeScript, Tailwind CSS, Redux Toolkit, and MongoDB, this application provides multi-user functionality, secure authentication, admin panel management, order handling, and much more.
 
 ## Features
